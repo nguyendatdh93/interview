@@ -1,0 +1,23 @@
+.btn-addblog{
+	margin-top: 10px;
+	margin-left: 10px;
+	float: right;
+}
+.postlist {
+    height: 90px;
+}
+.postlist .panel-heading{
+	height: 50px;
+}
+a.btn-show {
+    margin-bottom: 4px;
+    margin-left: 20px;
+    position: absolute;
+    margin-top: -30px;
+}
+.col-md-10{
+	border: 1px solid #f5f5f5;
+}
+.pagination{margin-left: 50%;}
+.modal-footer{border: none}
+.btn-default{margin-top: 20px;}
